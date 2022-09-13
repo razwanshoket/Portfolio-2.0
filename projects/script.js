@@ -20,11 +20,11 @@ $(document).ready(function(){
 document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
-        document.title = "Projects | Portfolio Saurav Mukherjee";
-        $("#favicon").attr("href","/assests/images/favicon.png");
+        document.title = "Hi, I'm Razwan";
+        $("#favicon").attr("href","/assests/images/profile-pic (2).png");
     }
     else {
-        document.title = "Come Back To Portfolio";
+        document.title = "Razwan Shoket | Portfolio";
         
     }
 });
