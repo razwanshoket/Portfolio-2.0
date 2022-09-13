@@ -41,11 +41,11 @@ $(document).ready(function(){
 document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
-        document.title = "Portfolio | Saurav Mukherjee";
-        $("#favicon").attr("href","assests/images/favicon.png");
+        document.title = "Hi, I'm Razwan";
+        $("#favicon").attr("href","assests/images/profile-pic (2).png");
     }
     else {
-        document.title = "Come Back To Portfolio";
+        document.title = "Razwan Shoket | Portfolio";
         
     }
 });
@@ -53,7 +53,7 @@ function(){
 
 // <!-- typed js effect starts -->
     var typed = new Typed(".typing-text", {
-        strings: ["Full-Stack development", "Machine Learning", "Cloud Computing", "Tech Communities"],
+        strings: ["Tech", "Startups", "Cyber Security", "Designing & Development"],
         loop: true,
         typeSpeed: 50,
 		backSpeed: 25,
