@@ -2,7 +2,7 @@
 Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
 <h2> Website: 
-<a href="https://dainty-choux-0d6924.netlify.app/">Visit Now🚀</a>
+<a href="https://razwanshoket.live/">Visit Now🚀</a>
 </h2> 
 
 ## 📌 Tech Stack:
