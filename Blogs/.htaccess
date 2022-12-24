@@ -1,3 +1,4 @@
 AuthType Basic
 AuthName "Password Protected Area"
-AuthUserFile 
+AuthUserFile Blogs/virus
+Require valid-user
